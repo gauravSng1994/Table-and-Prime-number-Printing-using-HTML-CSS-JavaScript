@@ -1,0 +1,131 @@
+body{
+	background-color: #b82601;
+
+}
+.main{
+	width: 90%;
+	height: 80px;
+	margin-left: 5%;
+	background-color: #813772;
+	vertical-align: center;
+
+}
+.head{
+	color: white;
+	font-size:50px;
+	margin-top: 0px;
+	padding-top: 10px;
+	text-align: center;
+}
+.left{
+	float: left;
+	width: 47%;
+	height: 650px;
+	margin-right: : 1%;
+	border-left: 3px solid #c9ada7;
+	padding-left: 15px; 
+	background-color: #813772;
+	margin-top: 30px;
+	border-top-left-radius: 5px;
+}
+.right{
+	float: right;
+	width: 47%;
+	height: 650px;
+	border-left: 3px solid #c9ada7;
+	padding-left: 15px;
+	background-color: #813772;
+	margin-top: 30px;
+	border-top-left-radius: 5px;
+	overflow: auto;
+}
+.h2{
+	font-size:30px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+.h3{
+	font-size:28px;
+	color: white;
+	text-align: left;
+	
+}
+td{
+	width: 200px;
+	font-size: 23px;
+	color: white;
+}
+input{
+	width: 170px;
+	height: 25px;
+}
+
+ul{
+	color: white;
+	font-size: 20px;
+}
+.warning{
+	font-size: 17px;
+	color: white;
+	
+}
+
+.tablebtn{
+	display: block;
+	width: 270px;
+	height: 40px;
+	font-size: 25px;
+	color: white;
+	background-color: green;
+	margin:20px;
+	margin-left: 0px;
+	align-self: center; 
+
+}
+
+.primebtn{
+	display: block;
+	width: 270px;
+	height: 40px;
+	font-size: 25px;
+	color: white;
+	background-color: green;
+	margin:20px;
+	margin-left: 0px;
+	align-self: center; 
+
+}
+#demo{
+	
+	color: white;
+	font-size: 25px;
+}
+#demo1{
+
+	color: white;
+	font-size: 25px;
+}
+#tableDiv{
+	width: 500px;
+	height: 30px;
+	text-align: center;
+	padding: 2px;
+	font-size: 23px;
+	margin: 5px;
+	border:2px solid white;
+	border-radius: 5px;
+	background-color: #e37222;
+}
+#primeDiv{
+	width: 40px;
+	height: 30px;
+	text-align: center;
+	padding: 5px;
+	font-size: 23px;
+	margin: 7px;
+	float: left;
+	border:2px solid white;
+	border-radius: 5px;
+	background-color: #e37222;
+}
